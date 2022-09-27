@@ -36,7 +36,7 @@ const Header = () => {
                                 <div>Resume</div>
                                 <img src="https://uploads-ssl.webflow.com/60d6be31db0c62b38797d7d1/60d82e9b566f832beb3be06a_arrow-up-right.svg" loading="lazy" alt="Arrow icon" class="btn-icon-r" />
                             </a>
-                                <a data-w-id="c92af1c7-f48a-370a-96d8-1f3338c7621e" href="https://www.linkedin.com/in/indiharris" target="_blank" class="linkedinStyle btn w-inline-block">
+                                <a data-w-id="c92af1c7-f48a-370a-96d8-1f3338c7621e" href="https://www.linkedin.com/in/indiharris" target="_blank" class="linkedinStyle btn w-inline-block" rel="noopener noreferrer">
                                     <div>LinkedIn</div>
                                     <img src="https://uploads-ssl.webflow.com/60d6be31db0c62b38797d7d1/60d82e9b566f832beb3be06a_arrow-up-right.svg" loading="lazy" alt="Arrow icon" class="btn-icon-r" />
                                 </a>
