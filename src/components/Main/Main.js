@@ -2,6 +2,7 @@ import React from 'react';
 import './Main.css'
 import Header from './Header';
 import About from './About';
+import Footer from './Footer';
 const Main = () => {
     return (
         <div className='pageWrap'>
@@ -13,17 +14,18 @@ const Main = () => {
                                 <div class="text-xl text-medium">Abirami
                                 </div>
                         </div>
-                        <div class="row-btns">
+                        {/* <div class="row-btns">
                             <a href="mailto:hello@indiharris.com" class="btn display-none-mob w-inline-block">
                                 <div>hello@indiharris.com</div>
                                 <img src="https://uploads-ssl.webflow.com/60d6be31db0c62b38797d7d1/60d82e9b566f832beb3be06a_arrow-up-right.svg" loading="lazy" alt="Arrow icon" class="btn-icon-r"/></a>
-                        </div>
+                        </div> */}
                     </div>
                 </div>
                 <div class="w-nav-overlay" data-wf-ignore="" id="w-nav-overlay-0"></div>
             </div>
             <Header/>
             <About/>
+            <Footer/>
         </div>
     );
 };

@@ -1,5 +1,6 @@
 import React from 'react';
 import Portfolio from '../../img/wwww.gif'
+import Resume from '../../files/Resume.pdf'
 
 const Header = () => {
     return (
@@ -32,11 +33,11 @@ const Header = () => {
                             </div>
                             <div data-w-id="d685cc5e-f1ee-57aa-a155-f4c8acf9f1a4" class="text-xl header-text descStyle">I’m a Frontend Engineer based in Chennai, India. I have unwavering passion and energy for designing tech websites and digital products.</div>
                             <div class="row-btns">
-                                <a data-w-id="f0fc0955-bf2c-8653-e972-e27c9ee4ea71" href="mailto:hello@indiharris.com" class=" mailStyle btn w-inline-block">
+                                <a data-w-id="f0fc0955-bf2c-8653-e972-e27c9ee4ea71" href={Resume} class=" mailStyle btn w-inline-block" target={'_blank'} rel={"noopener noreferrer"}>
                                 <div>Resume</div>
                                 <img src="https://uploads-ssl.webflow.com/60d6be31db0c62b38797d7d1/60d82e9b566f832beb3be06a_arrow-up-right.svg" loading="lazy" alt="Arrow icon" class="btn-icon-r" />
                             </a>
-                                <a data-w-id="c92af1c7-f48a-370a-96d8-1f3338c7621e" href="https://www.linkedin.com/in/indiharris" target="_blank" class="linkedinStyle btn w-inline-block" rel="noopener noreferrer">
+                                <a data-w-id="c92af1c7-f48a-370a-96d8-1f3338c7621e" href="https://www.linkedin.com/in/abiramiravikumar/" target="_blank" class="linkedinStyle btn w-inline-block" rel="noopener noreferrer">
                                     <div>LinkedIn</div>
                                     <img src="https://uploads-ssl.webflow.com/60d6be31db0c62b38797d7d1/60d82e9b566f832beb3be06a_arrow-up-right.svg" loading="lazy" alt="Arrow icon" class="btn-icon-r" />
                                 </a>
