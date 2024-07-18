@@ -10,7 +10,7 @@ const About = () => {
                             A little about me
                         </h2>
                         <p data-w-id="1ba51c17-d75e-39a8-4639-eea4a4a6f410" className='aboutMainDesc'>
-                            {`Thanks for stopping by. For the past 3 years, I
+                            {`Thanks for stopping by. For the past 5 years, I
 have developed many types of front - ends from well known Travel applications to
 Industry ERP Software platforms .`}
                             <br />
