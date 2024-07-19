@@ -1,6 +1,6 @@
 import React from 'react';
 import Portfolio from '../../img/wwww.gif'
-import Resume from '../../files/Black and White Modern Software Engineer Resume (1).pdf'
+import Resume from '../../files/Resume2.pdf'
 
 const Header = () => {
     return (
