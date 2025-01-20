@@ -11,7 +11,7 @@ const Main = () => {
                     <div class="row row-justify-between">
                         <div class="logo">
                             <img src="https://uploads-ssl.webflow.com/60d6be31db0c62b38797d7d1/60d82e9b3d931e3237953fa4_Star.svg" height="32" width="32" alt="Star icon" class="logo-icon"/>
-                                <div class="text-xl text-medium">Abirami
+                                <div class="text-xl text-medium">Web Enthusiast
                                 </div>
                         </div>
                         {/* <div class="row-btns">
