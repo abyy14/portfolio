@@ -9,21 +9,21 @@ const Header = () => {
                 <div class="container">
                     <div class="row row-header">
                         <div class="content">
-                            <div data-w-id="42c14611-cdd6-5bc2-5de8-815240eb5e83" class="row mb-16 contentchild">
-                                <div class="btn-icon-l w-embed">
-                                    <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                        <g clip-path="url(#clip0)">
-                                            <path d="M17.5 8.83334C17.5 14.6667 10 19.6667 10 19.6667C10 19.6667 2.5 14.6667 2.5 8.83334C2.5 6.84422 3.29018 4.93656 4.6967 3.53004C6.10322 2.12352 8.01088 1.33334 10 1.33334C11.9891 1.33334 13.8968 2.12352 15.3033 3.53004C16.7098 4.93656 17.5 6.84422 17.5 8.83334Z" stroke="currentColor" stroke-width="1.66667" stroke-linecap="round" stroke-linejoin="round"></path>
-                                            <path d="M10 11.3333C11.3807 11.3333 12.5 10.2141 12.5 8.83334C12.5 7.45263 11.3807 6.33334 10 6.33334C8.61929 6.33334 7.5 7.45263 7.5 8.83334C7.5 10.2141 8.61929 11.3333 10 11.3333Z" stroke="#101828" stroke-width="1.66667" stroke-linecap="round" stroke-linejoin="round"></path>
-                                        </g>
-                                        <defs>
-                                            <clipPath id="clip0">
-                                                <rect width="20" height="20" fill="white" transform="translate(0 0.5)"></rect>
-                                            </clipPath>
-                                        </defs>
-                                    </svg></div>
-                                <div class="text-medium">Chennai, India</div>
-                            </div>
+                            // <div data-w-id="42c14611-cdd6-5bc2-5de8-815240eb5e83" class="row mb-16 contentchild">
+                            //     <div class="btn-icon-l w-embed">
+                            //         <svg width="20" height="21" viewBox="0 0 20 21" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            //             <g clip-path="url(#clip0)">
+                            //                 <path d="M17.5 8.83334C17.5 14.6667 10 19.6667 10 19.6667C10 19.6667 2.5 14.6667 2.5 8.83334C2.5 6.84422 3.29018 4.93656 4.6967 3.53004C6.10322 2.12352 8.01088 1.33334 10 1.33334C11.9891 1.33334 13.8968 2.12352 15.3033 3.53004C16.7098 4.93656 17.5 6.84422 17.5 8.83334Z" stroke="currentColor" stroke-width="1.66667" stroke-linecap="round" stroke-linejoin="round"></path>
+                            //                 <path d="M10 11.3333C11.3807 11.3333 12.5 10.2141 12.5 8.83334C12.5 7.45263 11.3807 6.33334 10 6.33334C8.61929 6.33334 7.5 7.45263 7.5 8.83334C7.5 10.2141 8.61929 11.3333 10 11.3333Z" stroke="#101828" stroke-width="1.66667" stroke-linecap="round" stroke-linejoin="round"></path>
+                            //             </g>
+                            //             <defs>
+                            //                 <clipPath id="clip0">
+                            //                     <rect width="20" height="20" fill="white" transform="translate(0 0.5)"></rect>
+                            //                 </clipPath>
+                            //             </defs>
+                            //         </svg></div>
+                            //     <div class="text-medium">Chennai, India</div>
+                            // </div>
                             <div class="header-text-wrap">
                                 <h1 data-w-id="d685cc5e-f1ee-57aa-a155-f4c8acf9f1a2" class="display-2xl mb-0 helloStyle">Hello,
                                 </h1>
