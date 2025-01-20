@@ -18,7 +18,7 @@ const Header = () => {
                             </div>
                             <div data-w-id="d685cc5e-f1ee-57aa-a155-f4c8acf9f1a4" class="text-xl header-text descStyle">I’m a Senior Frontend Engineer with more than 5 years of experience.
 
-I specialize in React, Next.js, JavaScript (ES6+), TypeScript, and modern web technologies, focusing on scalable, high-performance, and accessible web applications. With a strong emphasis on code quality and team collaboration, I solve complex problems and deliver user-centered solutions.
+With a strong emphasis on code quality and team collaboration, I solve complex problems and deliver user-centered solutions.
 
 Let’s connect if you’d like to discuss opportunities or projects.</div>
                             <div class="row-btns">
