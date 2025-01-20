@@ -31,7 +31,11 @@ const Header = () => {
                             <div class="header-text-wrap btm">
                                 <h1 data-w-id="42b5e38c-626e-2adc-70e5-e25a59703532" class="display-2xl mb-0 nameStyle">I'm Abirami</h1>
                             </div>
-                            <div data-w-id="d685cc5e-f1ee-57aa-a155-f4c8acf9f1a4" class="text-xl header-text descStyle">I’m a Frontend Engineer based in Chennai, India. I have unwavering passion and energy for designing tech websites and digital products.</div>
+                            <div data-w-id="d685cc5e-f1ee-57aa-a155-f4c8acf9f1a4" class="text-xl header-text descStyle">I’m a Senior Frontend Engineer with more than 5 years of experience.
+
+I specialize in React, Next.js, JavaScript (ES6+), TypeScript, and modern web technologies, focusing on scalable, high-performance, and accessible web applications. With a strong emphasis on code quality and team collaboration, I solve complex problems and deliver user-centered solutions.
+
+Let’s connect if you’d like to discuss opportunities or projects.</div>
                             <div class="row-btns">
                                 <a data-w-id="f0fc0955-bf2c-8653-e972-e27c9ee4ea71" href={Resume} class=" mailStyle btn w-inline-block" target={'_blank'} rel={"noopener noreferrer"}>
                                 <div>Resume</div>
