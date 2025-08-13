@@ -15,11 +15,6 @@ const Footer = () => {
                                 </div>
                             </a>
                             <div class="row-btns">
-                                <a href="https://www.instagram.com/a._.b._.ii/?igshid=YmMyMTA2M2Y%3D" class="btn w-inline-block"  target="_blank" rel="noreferrer">
-                                    <div>Insta</div>
-                                    <img src={InstagramLogo} loading="lazy" alt="Arrow icon" class="btn-icon-r"/>
-                                    <img src="https://uploads-ssl.webflow.com/60d6be31db0c62b38797d7d1/60d82e9b566f832beb3be06a_arrow-up-right.svg" loading="lazy" alt="Arrow icon" class="btn-icon-r"/>
-                                    </a>
                                     <a href="https://www.linkedin.com/in/abiramiravikumar/" target="_blank" class="btn w-inline-block" rel="noreferrer">
                                         <div>LinkedIn</div>
                                         <img src={LinkedInLogo} loading="lazy" alt="Arrow icon" class="btn-icon-r"/>
