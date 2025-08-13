@@ -1,5 +1,4 @@
 import React from 'react';
-import InstagramLogo from '../../img/instagram.png'
 import LinkedInLogo from '../../img/linkedin.png'
 
 const Footer = () => {
